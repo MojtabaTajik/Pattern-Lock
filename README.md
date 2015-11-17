@@ -1,5 +1,5 @@
 # Pattern-Lock
-Microsoft Windows pattern lock
+Microsoft Windows pattern lock is simple application written by Delphi to lock and protect the computer using pattern lock method
 
 Features :
 
